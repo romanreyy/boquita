@@ -1,0 +1,27 @@
+#rojo {
+  color: red;
+}
+
+.cursiva {
+  font-style: italic;
+}
+
+.negrita {
+  font-weight:bold;
+}
+
+.amarillo {
+  color: yellow;
+}
+
+.verde {
+  color: green;
+}
+
+.texto-loco {
+  color: palevioletred;
+}
+h1 {
+  font-family: monospace;
+  font-size: 60px;
+}
